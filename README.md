@@ -88,9 +88,6 @@ Order Service는 Product Service와 직접 연결하지 않고 Feign Client를 �
 - Java 17
 - Spring Boot 3.3.1
 - Spring Cloud 2023.0.2
-- Spring Web
-- Spring Data JPA
-- Spring Security
 - Spring Cloud Gateway
 - Spring Cloud Netflix Eureka
 - Spring Cloud OpenFeign
@@ -99,7 +96,7 @@ Order Service는 Product Service와 직접 연결하지 않고 Feign Client를 �
 - Spring Boot Actuator
 - Micrometer Tracing
 - Zipkin Reporter
-- Lombok
+
 
 ### Database
 - HSQLDB
