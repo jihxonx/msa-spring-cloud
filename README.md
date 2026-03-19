@@ -178,6 +178,9 @@ Product Service
 ---
 
 ## 8. 프로젝트 구조
+## 8. 프로젝트 구조
+
+```text
 com.spring-cloud.sample
 ├── com.spring-cloud.eureka.server
 │   └── src/main/java/com/spring_cloud/eureka/server
@@ -233,7 +236,7 @@ com.spring-cloud.sample
             ├── OrderResponseDto.java
             ├── OrderSearchDto.java
             └── OrderService.java
-            
+```
 ---
 
 ## 9. API 명세
